@@ -6,3 +6,5 @@ The project utilizes data exploration and analysis techniques to extract meaning
 The findings from this analysis will not only benefit job seekers in understanding the current job market dynamics but also assist employers and recruiters in tailoring their job postings to attract suitable candidates. The project's codebase and documentation provide a detailed walkthrough of the analysis process, enabling others to replicate and build upon the findings.
 
 Overall, this project serves as a valuable resource for anyone interested in exploring the job market, uncovering key insights, and making informed decisions regarding job search strategies and recruitment practices.
+
+![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/c7acce33-79c4-4609-90b4-6d154d3834a7)
