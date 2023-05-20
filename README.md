@@ -8,3 +8,13 @@ The findings from this analysis will not only benefit job seekers in understandi
 Overall, this project serves as a valuable resource for anyone interested in exploring the job market, uncovering key insights, and making informed decisions regarding job search strategies and recruitment practices.
 
 ![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/c7acce33-79c4-4609-90b4-6d154d3834a7)
+
+![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/a145c07c-690c-4256-b7f2-1418d68270b6)
+
+![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/52076331-63e1-4e97-9e2c-474ca8eb3012)
+
+![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/46fbbec1-2de1-4936-8ef5-9bd002ac5214)
+
+![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/88a94de2-79c0-4d7a-93b4-896bd90cfe0a)
+
+![image](https://github.com/Nourahmed113/Job-Postings/assets/108830575/a696e34a-24f2-47ee-8270-a56ecb1ca3ac)
